@@ -1,2 +1,6 @@
 这是一个新的文件
+<<<<<<< HEAD
 local edit
+=======
+Server edit
+>>>>>>> f0d235d30c419721137f11aae5d7a1805e11203f
